@@ -1,4 +1,6 @@
-# lb4-getting-started
+# LoopBack 4 - Hello World
+
+![](images.png)
 
 
 ### Install LoopBack 4 CLI
